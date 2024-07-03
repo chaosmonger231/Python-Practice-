@@ -1,4 +1,5 @@
-#twinklephrase
+#https://www.w3resource.com/python-exercises/python-basic-exercises.php
+#Python Excercise for Beginners (Solution)
 
 def twinkle():
   
