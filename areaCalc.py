@@ -1,6 +1,6 @@
 #https://www.w3resource.com/python-exercises/python-basic-exercises.php
 #Python Basic Exercises for Beginners
-#Problem 3: Write a Python program that calculates the area of a circle based on the radius entered by the user
+#Problem 4: Write a Python program that calculates the area of a circle based on the radius entered by the user
 
 #Sample Output:
 
